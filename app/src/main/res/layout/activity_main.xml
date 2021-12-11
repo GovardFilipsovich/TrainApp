@@ -83,7 +83,7 @@
         app:layout_constraintTop_toTopOf="@+id/img_lock" />
 
     <EditText
-        android:id="@+id/login"
+        android:id="@+id/lastname"
         android:layout_width="350dp"
         android:layout_height="45dp"
         android:ems="10"
